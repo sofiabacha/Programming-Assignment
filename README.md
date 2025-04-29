@@ -2,7 +2,7 @@
 
 This repository contains implementations for questions 2-6 of Part A.  
 Each problem is located in a separate folder with its own Java file, example `input.txt`, and `output.txt`.  
-Bonus questions 1 and 3 are in the bonus folder and bonus question 2 is in the "Heap Bottom Up" folder.
+Bonus question 1 is in the bonus folder and bonus question 2 is in the "Heap Bottom Up" folder.
 
 ---
 
