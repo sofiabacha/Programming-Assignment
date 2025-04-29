@@ -1,0 +1,2 @@
+needle
+haystack with a needle somewhere in it

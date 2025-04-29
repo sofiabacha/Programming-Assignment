@@ -1,0 +1,62 @@
+===========================
+Java Sorting Program README
+===========================
+
+Author: Sofia
+File: Sort.java
+Description: This program reads floating-point numbers from an input file, 
+sorts them using both Merge Sort and Quick Sort, and writes the sorted output 
+to a file. It also prints the execution time for both sorting algorithms 
+(excluding file I/O time).
+
+===================
+Required Files
+===================
+- Sort.java         → Main program containing Merge Sort and Quick Sort
+- input.txt         → ASCII text file containing unsorted float-point numbers (space-separated)
+- output.txt        → Will be generated to contain sorted numbers (from Merge Sort)
+
+===================
+How to Compile
+===================
+
+1. Open a terminal (or command prompt) in the folder where Sort.java is saved.
+
+2. Run the following command to compile the Java program:
+
+   javac Sort.java
+
+   This will create a file named Sort.class in the same directory.
+
+===================
+How to Run
+===================
+
+After compiling, run the program using:
+
+   java Sort
+
+===================
+Input Format
+===================
+- The file `input.txt` should be placed in the same directory.
+- It should contain float-point numbers separated by spaces on a single line.
+  Example:
+  3.14 2.71 0.577 1.618 42.0 9.81 7.77 5.55 6.66 10.01 0.001 -2.5 8.8
+
+===================
+Output Format
+===================
+- The program creates an `output.txt` file containing the sorted numbers from Merge Sort.
+- The execution times (in milliseconds) for both Merge Sort and Quick Sort are printed to the console.
+
+===================
+Note
+===================
+- Both sorting algorithms preserve float precision.
+- You may switch between Merge Sort and Quick Sort output by modifying the writer loop in the main method.
+
+===================
+Contact
+===================
+For any issues or questions, contact: [Your Email or University Contact]
