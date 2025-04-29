@@ -21,7 +21,7 @@ Bonus questions 1 and 3 are in the bonus folder and bonus question 2 is in the "
 **Main Code:** `Sort.java`
 
 ### How to Compile & Run:
-```bash ```
+```bash javac Sort.java java Sort```
 javac Sort.java  
 java Sort 
 
