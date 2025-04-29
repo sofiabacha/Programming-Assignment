@@ -55,7 +55,7 @@ java HorspoolMatching.java
 
 ### Input File Format:
 First line: The pattern to be matched. 
-Second line: The text where you are searching for pattern.
+Second line: The text where you are searching for pattern.  
 *Only lowercase alphabet letters and spaces allowed.
 
 ## Floyd's Algorithm
@@ -69,7 +69,7 @@ java Floyd.java
 ```  
 
 ### Input File Format:
-Each line represents a row of the distance Matrix. Distances are floating-point numbers separated by spaces. Diagonal entries should be 0.
+Each line represents a row of the distance Matrix. Distances are floating-point numbers separated by spaces. Diagonal entries should be 0.  
 *Use a large number (e.g., 9999) to represent infinity.
 
 ## Maximum Bipartite Matching
