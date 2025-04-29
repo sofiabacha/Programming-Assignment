@@ -21,9 +21,10 @@ Bonus questions 1 and 3 are in the bonus folder and bonus question 2 is in the "
 **Main Code:** `Sort.java`
 
 ### How to Compile & Run:
-```bash javac Sort.java java Sort```
+```bash 
 javac Sort.java  
 java Sort 
+``` 
 
 ### Input File Format:
  Space-separated list of integers (or doubles) to sort.
@@ -33,9 +34,10 @@ java Sort
 **Main Code:** `MaxHeapBottomUp.java` `MinHeapBottomUp.java` `Bonus_HeapSort.java`
 
 ### How to Compile & Run (same for max, min, and bonus):
-```bash```
+```bash
 javac MaxHeapBottomUp.java  
 java MaxHeapBottomUp.java
+```  
 
 ### Input File Format:
 First line: Number of keys (integer). 
@@ -46,9 +48,10 @@ Second line: Space-separated integer keys.
 **Main Code:** `HorspoolMatching.java`
 
 ### How to Compile & Run:
-```bash```
+```bash
 javac HorspoolMatching.java  
 java HorspoolMatching.java
+```  
 
 ### Input File Format:
 First line: The pattern to be matched. 
@@ -60,9 +63,10 @@ Second line: The text where you are searching for pattern.
 **Main Code:** `Floyd.java`
 
 ### How to Compile & Run:
-```bash```
+```bash
 javac Floyd.java  
 java Floyd.java
+```  
 
 ### Input File Format:
 Each line represents a row of the distance Matrix. Distances are floating-point numbers separated by spaces. Diagonal entries should be 0.
@@ -73,9 +77,10 @@ Each line represents a row of the distance Matrix. Distances are floating-point 
 **Main Code:** `MaximumBipartiteMatching.java`
 
 ### How to Compile & Run:
-```bash```
+```bash
 javac MaximumBipartiteMatching.java  
 java MaximumBipartiteMatching.java
+``` 
 
 ### Input File Format:
 First line: Space-separated vertices from set V. 
